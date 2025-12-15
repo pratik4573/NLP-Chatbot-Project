@@ -1,0 +1,7 @@
+text,intent,response
+hi,greet,Hello Pratik! 👋
+hello,greet,Hi Pratik! How are you?
+what is your name,name,My name is your personal chatbot 🤖
+who am I,identity,You are Pratik Pandey!
+bye,goodbye,Goodbye Pratik! See you later!
+how are you,wellbeing,"I'm doing great, thanks for asking Pratik!"
